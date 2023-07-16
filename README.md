@@ -4,7 +4,7 @@
 
 ---
 
-### :point_right: Compétences
+### :point_right: Skills
 
 #### Language / Frameworks
 <img src="./assets/images/c--4.svg" width="29" height="29" alt ="typescript" title="Typescript"/>&nbsp;&nbsp;
