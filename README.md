@@ -27,7 +27,7 @@
     <img src="./assets/images/docker.svg" width="29" height="29" alt ="docker" title="Typescript"/>&nbsp;&nbsp;
     <img src="./assets/images/git-icon.svg" width="29" height="29" alt ="git" title="Typescript"/>&nbsp;&nbsp;
     <img src="./assets/images/terminal-light.png#gh-light-mode-only" width="29" height="29" alt ="git" title="Typescript"/>&nbsp;&nbsp;
-    <img src="./assets/images/term-dark.png#gh-dark-mode-only" width="29" height="29" alt ="git" title="Typescript"/>&nbsp;&nbsp;
+    <img src="./assets/images/term-dark.svg#gh-dark-mode-only" width="29" height="29" alt ="git" title="Typescript"/>&nbsp;&nbsp;
     
 </div>
 
