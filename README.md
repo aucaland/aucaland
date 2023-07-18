@@ -14,10 +14,12 @@
 <img src="./assets/images/typescript.svg" width="29" height="29" alt ="typescript" title="Typescript"/>&nbsp;&nbsp;
 
 #### Tools
-<img src="./assets/images/next-js.svg" width="29" height="29" alt ="next" title="Typescript"/>&nbsp;&nbsp;
-<img src="./assets/images/prisma-3.svg" width="29" height="29" alt ="prisma" title="Typescript"/>&nbsp;&nbsp;
+<img src="./assets/images/next-js.svg#gh-light-mode-only" width="29" height="29" alt ="next" title="Typescript"/>&nbsp;&nbsp;
+<img src="./assets/images/next-dark.svg#gh-dark-mode-only" width="29" height="29" alt ="next" title="Typescript"/>&nbsp;&nbsp;
+<img src="./assets/images/prisma-3.svg#gh-light-mode-only" width="29" height="29" alt ="prisma" title="Typescript"/>&nbsp;&nbsp;
+<img src="./assets/images/prisma-3-darkMode.svg#gh-dark-mode-only" width="29" height="29" alt ="prisma" title="Typescript"/>&nbsp;&nbsp;
 <img src="./assets/images/react-2.svg" width="29" height="29" alt ="react" title="Typescript"/>&nbsp;&nbsp;
-<img src="./assets/images/25231.png" width="29" height="29" alt ="github" title="Typescript"/>&nbsp;&nbsp;
+<img src="./assets/images/25231.png#gh-light-mode-only" width="29" height="29" alt ="github" title="Typescript"/>&nbsp;&nbsp;
 <img alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only"/>
 <img src="./assets/images/docker.svg" width="29" height="29" alt ="docker" title="Typescript"/>&nbsp;&nbsp;
 <img src="./assets/images/git-icon.svg" width="29" height="29" alt ="git" title="Typescript"/>&nbsp;&nbsp;
