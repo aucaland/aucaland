@@ -7,6 +7,7 @@
 ### :point_right: Skills
 
 #### Language / Frameworks
+
 <img src="./assets/images/c--4.svg" width="29" height="29" alt ="c#" title="Typescript"/>&nbsp;&nbsp;
 <img src="./assets/images/c-1.svg" width="29" height="29" alt ="c" title="Typescript"/>&nbsp;&nbsp;
 <img src="./assets/images/c.svg" width="29" height="29" alt ="c++" title="Typescript"/>&nbsp;&nbsp;
@@ -14,6 +15,7 @@
 <img src="./assets/images/typescript.svg" width="29" height="29" alt ="typescript" title="Typescript"/>&nbsp;&nbsp;
 
 #### <img src="./assets/images/tools.svg" style="float:left;margin-top:-15px;" width="35" height="35" alt ="typescript" title="Tools"/> Tools
+
 <div style="position: relative">
     <img src="./assets/images/next-js.svg#gh-light-mode-only" width="29" height="29" alt ="next" title="Typescript"/>&nbsp;&nbsp;
     <img src="./assets/images/next-dark.svg#gh-dark-mode-only" style="float: left" width="29" height="29" alt ="next"                         title="Typescript"/>&nbsp;&nbsp;
