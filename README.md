@@ -26,7 +26,7 @@
 <img src="./assets/images/docker.svg" width="29" height="29" alt ="docker" title="Typescript"/>
 <img src="./assets/images/git-icon.svg" width="29" height="29" alt ="git" title="Typescript"/>
 <img src="./assets/images/terminal-light.png#gh-light-mode-only" width="29" height="29" alt ="git" title="Typescript"/>
-<img src="./assets/images/Obsidian_software_logo.svg" width="29" height="29" alt ="obsidian" title="obsidian"/>
+<img src="./assets/images/obsidian .svg" width="29" height="29" alt ="obsidian" title="obsidian"/>
 
 ---
 
