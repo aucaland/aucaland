@@ -4,8 +4,6 @@
 
 ---
 
-### :point_right: Skills
-
 #### <img src="./assets/images/icons8-framework-64.png" style="float:left;margin-top:-15px;" width="35" height="35" alt ="typescript" title="Tools"/> Language / Frameworks
 
 <img src="./assets/images/c--4.svg" width="29" height="29" alt ="c#" title="Typescript"/>&nbsp;&nbsp;
@@ -19,7 +17,8 @@
 <img src="./assets/images/prisma-3.svg#gh-light-mode-only" width="29" height="29" alt ="prisma" title="prisma"/>
 <img src="./assets/images/prisma-3-darkMode.svg#gh-dark-mode-only" style="position: absolute;top: 0; left: 0;" width="29" height="29" alt ="prisma"                 title="prisma"/>
 <img src="./assets/images/react-2.svg" width="29" height="29" alt ="react" title="react"/>
-
+<img src="./assets/images/nest.svg" width="29" height="29" alt ="nest" title="nest"/>
+<br><br>
 #### <img src="./assets/images/tools.svg" style="float:left;margin-top:-15px;" width="35" height="35" alt ="typescript" title="Tools"/> Tools
 
 <img src="./assets/images/25231.png#gh-light-mode-only" width="29" height="29" alt ="github" title="github"/>&nbsp;&nbsp;
@@ -27,6 +26,7 @@
 <img src="./assets/images/docker.svg" width="29" height="29" alt ="docker" title="Typescript"/>
 <img src="./assets/images/git-icon.svg" width="29" height="29" alt ="git" title="Typescript"/>
 <img src="./assets/images/terminal-light.png#gh-light-mode-only" width="29" height="29" alt ="git" title="Typescript"/>
+<img src="./assets/images/Obsidian_software_logo.svg" width="29" height="29" alt ="obsidian" title="obsidian"/>
 
 ---
 
