@@ -1,4 +1,4 @@
-##### Aurelien Calandrino - Student Dev in 42Lyon, i'm interested in Networks and security.
+##### Aurelien Calandrino - I studied at 42 Lyon and am now pursuing a degree in Network and Telecommunications. I'm passionate about network and system administration, DevOps, and cybersecurity.
 
 [![aucaland's 42 stats](https://badge42.vercel.app/api/v2/clk5k9flf002508kxknlkaxyd/stats?cursusId=21&coalitionId=302)](https://github.com/JaeSeoKim/badge42)
 
